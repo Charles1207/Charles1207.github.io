@@ -1,74 +1,277 @@
-Hi there 👋, I'm Charles Huang
+<div align="center">
 
-🎓 Informatics Teacher
-💻 Web & Mobile Developer
-📍 Batam, Indonesia
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:5B8CFF&height=220&section=header&text=Charles%20Huang&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Teacher%20|%20Web%20Developer%20|%20Flutter%20Developer&descAlignY=58"/>
 
-🚀 About Me
+# 👨‍🏫💻 Welcome To My GitHub Profile
 
-I am passionate about technology, education, and software development.
-I enjoy building responsive applications, learning new technologies, and creating systems that solve real-world problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Informatics+Teacher;Laravel+Developer;Flutter+Developer;Web+Developer;Always+Learning+New+Things"/>
 
-Currently focusing on:
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6C63FF&style=flat"/>
 
-🌐 Web Development
-📱 Flutter Mobile Apps
-🗄️ Database & Backend Systems
-🎓 Educational Technology
-🛠️ Tech Stack
-Languages
-PHP
-Dart
-C++
-JavaScript
-HTML & CSS
-SQL
-Frameworks & Tools
-Laravel
-Flutter
-Supabase
-MySQL
-Git & GitHub
-VS Code
-📂 Featured Projects
-📌 Extracurricular Management System
+</div>
 
-A web-based system for managing school extracurricular activities with:
+---
 
-User & Admin authentication
-Student registration
-Attendance system
-Approval workflow
+# 🚀 About Me
 
-Tech: Laravel, MySQL, Blade
+```txt
+👨‍🏫 Role      : Informatics Teacher
+💻 Focus     : Web & Mobile Development
+📱 Interest  : Flutter & Laravel
+🌏 Country   : Indonesia
+🎯 Goal      : Build useful and modern applications
+```
 
-📌 Car Booking Mobile App
+🎓 I am passionate about technology and education.  
+💡 I enjoy creating responsive websites and mobile applications.  
+📚 I love learning new things and sharing knowledge with students.  
+⚡ Programming is not only my skill, but also my passion.
 
-A Flutter application for car booking with:
+---
 
-Responsive UI
-Calendar booking
-Supabase integration
-Booking history
+# 🛠️ Tech Stack
 
-Tech: Flutter, Dart, Supabase
+<div align="center">
 
-📌 Company Profile Website
+<img src="https://skillicons.dev/icons?i=css,js,cpp,php,laravel,mysql,flutter,git,vscode&perline=5"/>
 
-Modern responsive company profile website with:
+</div>
 
-Interactive UI
-Organization chart
-Responsive design
-Clean layout
+---
 
-Tech: HTML, CSS, JavaScript
+# 📚 Skills
 
-📈 GitHub Stats
+<table align="center">
+<tr>
+<td width="50%">
 
-📫 Connect With Me
-GitHub: https://github.com/YOUR_USERNAME
-Email: your.email@example.com
-✨ Motto
+### 🌐 Frontend
+- HTML
+- CSS
+- JavaScript
+- Responsive Design
 
-“Keep learning, keep building, and keep improving.”
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend
+- PHP
+- Laravel
+- MySQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 Mobile Development
+- Flutter
+
+</td>
+
+<td width="50%">
+
+### 💻 Programming
+- C++
+- Problem Solving
+- Logic Building
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📂 Featured Projects
+
+## 🎯 Extracurricular Management System
+
+A web application for managing school extracurricular activities.
+
+### ✨ Main Features
+- Authentication Login
+- Attendance Management
+- Student Registration
+- Approval Workflow
+- Dashboard System
+- Role Management
+
+### ⚙️ Technologies
+`Laravel` `PHP` `MySQL`
+
+---
+
+## 🚗 Car Booking Mobile Application
+
+Responsive mobile application for booking vehicles.
+
+### ✨ Main Features
+- Responsive User Interface
+- Calendar Booking
+- Booking History
+- Modern Layout
+- User-Friendly Navigation
+
+### ⚙️ Technologies
+`Flutter`
+
+---
+
+## 🌐 Company Profile Website
+
+Modern responsive company profile website.
+
+### ✨ Main Features
+- Responsive Layout
+- Interactive Design
+- Organization Structure
+- Modern Interface
+- Clean UI
+
+### ⚙️ Technologies
+`HTML` `CSS` `JavaScript`
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=15"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+```txt
+📱 Flutter Responsive UI
+⚡ Advanced Laravel Features
+🎨 Better UI/UX Design
+🗄️ Database Optimization
+🚀 Modern Web Development
+```
+
+---
+
+# ☕ Daily Routine
+
+```cpp
+int main() {
+
+    wakeUp();
+
+    teachStudents();
+
+    writeCode();
+
+    debugProblems();
+
+    learnNewThings();
+
+    sleep();
+
+    return 0;
+}
+```
+
+---
+
+# 🎯 2026 Goals
+
+- Build more real-world applications
+- Improve Flutter development skills
+- Master Laravel backend systems
+- Create educational technology projects
+- Share knowledge through programming
+
+---
+
+# 🌟 Motto
+
+> “Technology and education together can create meaningful change.”
+
+---
+
+# ☕ Fun Fact
+
+```txt
+Teacher in the classroom 👨‍🏫
+Developer behind the screen 💻
+```
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
+
+---
+
+# 📌 Profile Setup Guide
+
+### 1️⃣ Create Repository
+
+Create a new repository with the same name as your GitHub username.
+
+Example:
+```txt
+Username : johndoe
+Repository Name : johndoe
+```
+
+---
+
+### 2️⃣ Create README.md
+
+Create a file named:
+
+```txt
+README.md
+```
+
+---
+
+### 3️⃣ Paste This Code
+
+Copy all of this README content into the `README.md` file.
+
+---
+
+### 4️⃣ Replace Information
+
+Replace:
+
+```txt
+YOUR_USERNAME
+YOUR_EMAIL@gmail.com
+```
+
+with your actual GitHub username and email.
+
+---
+
+<div align="center">
+
+## ✨ Thank You For Visiting My Profile ✨
+
+⭐ Don't forget to explore my repositories
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:5B8CFF&height=120&section=footer"/>
+
+</div>
