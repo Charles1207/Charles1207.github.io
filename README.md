@@ -16,10 +16,10 @@
 
 ```txt
 👨‍🏫 Role      : Informatics Teacher
-💻 Focus     : Web & Mobile Development
-📱 Interest  : Flutter & Laravel
-🌏 Country   : Indonesia
-🎯 Goal      : Build useful and modern applications
+💻 Focus      : Web & Mobile Development
+📱 Interest   : Flutter & Laravel
+🌏 Country    : Indonesia
+🎯 Goal       : Build useful and modern applications
 ```
 
 🎓 I am passionate about technology and education.  
@@ -157,25 +157,60 @@ Modern responsive company profile website.
 
 ---
 
-# ☕ Daily Routine
+# 🎮 Daily Routine
 
 ```cpp
-int main() {
+class CharlesHuang {
 
-    wakeUp();
+    public:
 
-    teachStudents();
+        void dailyRoutine() {
 
-    writeCode();
+            wakeUp();
 
-    debugProblems();
+            drinkCoffee();
 
-    learnNewThings();
+            teachStudents();
 
-    sleep();
+            writeCode();
 
-    return 0;
-}
+            debugProblems();
+
+            buildProjects();
+
+            learnNewTechnology();
+
+            sleep();
+        }
+};
+```
+
+---
+
+# 🎵 Coding Mood
+
+```txt
+🎧 Lo-fi Music
+☕ Coffee
+💻 VS Code
+🌙 Late Night Coding
+🚀 Building Projects
+```
+
+---
+
+# 💭 Random Dev Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+# 👨‍🏫💻 Fun Fact
+
+```txt
+Morning  : Teaching Students 👨‍🏫
+Night    : Building Projects 💻
+Always   : Learning Something New 🚀
 ```
 
 ---
@@ -196,15 +231,6 @@ int main() {
 
 ---
 
-# ☕ Fun Fact
-
-```txt
-Teacher in the classroom 👨‍🏫
-Developer behind the screen 💻
-```
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
@@ -220,49 +246,6 @@ Developer behind the screen 💻
 </a>
 
 </div>
-
----
-
-# 📌 Profile Setup Guide
-
-### 1️⃣ Create Repository
-
-Create a new repository with the same name as your GitHub username.
-
-Example:
-```txt
-Username : johndoe
-Repository Name : johndoe
-```
-
----
-
-### 2️⃣ Create README.md
-
-Create a file named:
-
-```txt
-README.md
-```
-
----
-
-### 3️⃣ Paste This Code
-
-Copy all of this README content into the `README.md` file.
-
----
-
-### 4️⃣ Replace Information
-
-Replace:
-
-```txt
-YOUR_USERNAME
-YOUR_EMAIL@gmail.com
-```
-
-with your actual GitHub username and email.
 
 ---
 
