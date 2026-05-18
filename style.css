@@ -329,12 +329,16 @@ nav ul li a:hover::after{
 
 .contact-section{
     text-align:center;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
 }
 
 .contact-section p{
-    font-size:20px;
+    font-size:22px;
     color:#cbd5e1;
-    margin:18px 0;
+    margin:15px 0;
 }
 
 /* ================= FOOTER ================= */
